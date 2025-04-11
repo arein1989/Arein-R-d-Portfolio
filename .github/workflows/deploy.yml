@@ -1,4 +1,4 @@
-name: Deploy Arein-Portfolio
+name: Deploy AreinHussein-portfolio
  
 on:
   push:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          repository: arein1989/Arein-Portfolio
+          repository: arein1989/AreinHussein-portfolio
  
       - name: Install Dependencies
         run: npm install || echo "No dependencies to install"
