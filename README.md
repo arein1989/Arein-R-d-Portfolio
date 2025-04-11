@@ -8,7 +8,7 @@ Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færd
 - Javascript
 #### Installation
 For at køre dette projekt lokalt, skal du følge disse trin:
-git clone https://github.com/YaMe09/Bulma-sass
+git clone https://github.com/arein1989/Arein-portfolio
 Naviger til mappen:
 cd Bulma-sass
 Åbn index.html i din browser, eller brug en live server (f.eks. med VS Code).
