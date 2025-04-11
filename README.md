@@ -1,4 +1,4 @@
-# Bulma-Sass
+# AreinHussein-portfolio
 ## Beskrivelse
 Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færdigheder. Portfolioen er bygget med HTML og Bulma CSS framework og Sass og Javascript for at skabe et responsivt og moderne design.
 ### Frontend-værktøjer
@@ -8,7 +8,8 @@ Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færd
 - Javascript
 #### Installation
 For at køre dette projekt lokalt, skal du følge disse trin:
-git clone https://github.com/arein1989/Arein-portfolio
+git clone https://github.com/arein1989/AreinHussein-portfolio
+
 Naviger til mappen:
 cd Bulma-sass
 Åbn index.html i din browser, eller brug en live server (f.eks. med VS Code).
